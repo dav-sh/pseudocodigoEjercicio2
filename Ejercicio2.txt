@@ -1,0 +1,9 @@
+Algoritmo Ejercicio2
+	Escribir 'Ingrese un valor'
+	Leer N
+	Escribir N
+	Mientras N<=1 Hacer
+		N <- N+1
+		Escribir N
+	FinMientras
+FinAlgoritmo
